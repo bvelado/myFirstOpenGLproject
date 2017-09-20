@@ -1,6 +1,6 @@
 # myFirstOpenGLproject
 
 Libraries used :
-GFWL
-GLEW
-GLM
+- GFWL
+- GLEW
+- GLM
